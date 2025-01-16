@@ -1,0 +1,9 @@
+/* No arquivo CSS global */
+body {
+  background-image: url('https://blog.pensanddolls.com.br/wp-content/uploads/2024/10/capturando-pokemons-raros-os-melhores-colecionaveis-do-universo-pokemon.jpeg'); /* Coloque a URL da sua imagem aqui */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 0;
+}
